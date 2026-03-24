@@ -16,18 +16,6 @@
   <a href="https://github.com/abdubakr77">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://x.com/Abdu_1Bakr">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/koratahady/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.facebook.com/aboodyflex/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.youtube.com/@abdu_bakr">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
 </p>
 
 </div>
@@ -41,9 +29,8 @@ class Abdullah:
     def __init__(self):
         self.username = "abdubakr77"
         self.role = "Python Developer"
-        self.experience = "2+ years"
+        self.experience = "3+ years"
         self.learning = ["Machine Learning", "Deep Learning"]
-        self.studying = ["Linear Algebra", "Calculus", "Probability"]
         self.email_me = "abdubakora1232@gmail.com"
         self.mindset = "Always learning something new every day 🚀"
     
@@ -54,11 +41,9 @@ me = Abdullah()
 me.say_hi()
 ```
 
-- 🐍 **Python Developer** with 2+ years of experience
-- 🤖 Currently learning **Machine Learning & Deep Learning**
-- 📚 Studying **Math for AI** (Linear Algebra, Calculus, Probability)
-- 🚀 **Always learning** something new every day
-- 💡 Passionate about **AI & Data Science**
+- 🐍 **Python Developer** with 3+ years of experience
+- 🤖 Currently learning **Deep Learning**
+- 💡 Passionate about **AI Engineer & Data Scientest**
 
 ---
 
@@ -141,12 +126,11 @@ me.say_hi()
 
 | Goal | Status |
 |------|--------|
-| ✅ Build **AI projects** with real-world applications | 🔄 In Progress |
+| ✅ Build **AI projects** with real-world applications | Done ✅ |
 | ✅ Master **Deep Learning** architectures (CNNs, RNNs, Transformers) | 🔄 In Progress |
-| ✅ Become extremely comfortable with **ML Mathematics** | 🔄 In Progress |
+| ✅ Become extremely comfortable with **ML Mathematics** | Done ✅ |
 | ✅ Create a strong **GitHub portfolio** with quality projects | 🔄 In Progress |
-| ✅ Contribute to **Open Source** AI projects | 📝 Planning |
-| ✅ Share knowledge through **tutorials and documentation** | 📝 Planning |
+| ✅ Contribute to **Open Source** AI projects | 🔄 In Progress |
 
 </div>
 
@@ -156,18 +140,18 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://github.com/abdubakr77/Multiplication-Speed-Quiz">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=abdubakr77&repo=Multiplication-Speed-Quiz&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72A5D&text_color=FFFFFF&icon_color=F72A5D" alt="Multiplication Speed Quiz" />
+<a href="https://github.com/abdubakr77/deepcsv">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=abdubakr77&repo=deepcsv&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72A5D&text_color=FFFFFF&icon_color=F72A5D" alt="deepcsv" />
 </a>
 
 <br><br>
 
-### 🎮 **Multiplication Speed Quiz**
-A fun and interactive quiz game to test your multiplication skills! Built with Python.
+### **Deep CSV**
+Automatically walks folders and converts list strings to lists in CSV/XLSX files
 
-**🛠️ Technologies:** Python | Game Development | Interactive UI
+**🛠️ Technologies:** Python | Data PreProcessing | Data Fixing | Pandas
 
-[**🔗 View Project**](https://github.com/abdubakr77/Multiplication-Speed-Quiz)
+[**🔗 View Project**](https://github.com/abdubakr77/deepcsv)
 
 <br>
 
@@ -192,16 +176,6 @@ A fun and interactive quiz game to test your multiplication skills! Built with P
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=abdubakr77&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
