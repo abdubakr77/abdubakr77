@@ -3,7 +3,7 @@
 # 👋 Hi, I'm **Abdullah Bakr**
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F72A5D&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Deep+Learning+Learner+%F0%9F%A7%A0;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=AI+Engineer+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Deep+Learning+%7C+Computer+Vision+%F0%9F%A7%A0;Building+Real-World+AI+Systems+%F0%9F%9A%80" />
 
 ---
 
@@ -25,25 +25,25 @@
 ## 🧠 About Me
 
 ```python
-class Abdullah:
+class AIEngineer:
     def __init__(self):
-        self.username = "abdubakr77"
-        self.role = "Python Developer"
-        self.experience = "3+ years"
-        self.learning = ["Machine Learning", "Deep Learning"]
-        self.email_me = "abdubakora1232@gmail.com"
-        self.mindset = "Always learning something new every day 🚀"
-    
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something amazing together!")
+        self.name = "Abdullah Bakr"
+        self.role = "AI Engineer"
+        self.focus = ["Machine Learning", "Deep Learning", "Computer Vision"]
+        self.tools = ["Python", "TensorFlow", "Keras", "PyTorch"]
+        self.platforms = ["GitHub", "Kaggle", "PyPI"]
 
-me = Abdullah()
-me.say_hi()
+    def mission(self):
+        return "Building intelligent systems that solve real-world problems."
+
+me = AIEngineer()
+print(me.mission())
 ```
 
-- 🐍 **Python Developer** with 3+ years of experience
-- 🤖 Currently learning **Deep Learning**
-- 💡 Passionate about **AI Engineer & Data Scientest**
+- 🧠 AI Engineer focused on real-world machine learning systems
+- 🐍 Strong Python & Deep Learning foundation
+- 📦 Published projects on PyPI
+- 🔬 Active in Kaggle competitions & experiments
 
 ---
 
@@ -127,10 +127,10 @@ me.say_hi()
 | Goal | Status |
 |------|--------|
 | ✅ Build **AI projects** with real-world applications | Done ✅ |
-| ✅ Master **Deep Learning** architectures (CNNs, RNNs, Transformers) | 🔄 In Progress |
+| ✅ Master **Deep Learning** architectures (CNNs, RNNs, Transformers) | Done ✅ |
 | ✅ Become extremely comfortable with **ML Mathematics** | Done ✅ |
 | ✅ Create a strong **GitHub portfolio** with quality projects | 🔄 In Progress |
-| ✅ Contribute to **Open Source** AI projects | 🔄 In Progress |
+| ✅ Contribute to **Open Source** AI projects | Done ✅ |
 
 </div>
 
