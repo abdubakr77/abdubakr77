@@ -129,7 +129,7 @@ print(me.mission())
 | ✅ Build **AI projects** with real-world applications | Done ✅ |
 | ✅ Master **Deep Learning** architectures (CNNs, RNNs, Transformers) | Done ✅ |
 | ✅ Become extremely comfortable with **ML Mathematics** | Done ✅ |
-| ✅ Create a strong **GitHub portfolio** with quality projects | 🔄 In Progress |
+| ✅ Create a strong **GitHub portfolio** with quality projects | Done ✅ |
 | ✅ Contribute to **Open Source** AI projects | Done ✅ |
 
 </div>
