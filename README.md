@@ -1,206 +1,88 @@
 <div align="center">
 
-# 👋 Hi, I'm **Abdullah Bakr**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Abdullah+Bakr;AI+%26+Machine+Learning+Engineer;Computer+Vision+%7C+Deep+Learning+%7C+Medical+AI" alt="Typing SVG" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=AI+Engineer+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Deep+Learning+%7C+Computer+Vision+%F0%9F%A7%A0;Building+Real-World+AI+Systems+%F0%9F%9A%80" />
+<br/>
 
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdubakr">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/abdubakr77">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdubakr77.github.io-58A6FF?style=flat-square&logo=github)](https://abdubakr77.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/abdubakr)
+[![Kaggle](https://img.shields.io/badge/Kaggle-abdullahbakr7-20BEFF?style=flat-square&logo=kaggle)](https://kaggle.com/abdullahbakr7)
+[![PyPI](https://img.shields.io/badge/PyPI-AbduBakr-3775A9?style=flat-square&logo=pypi)](https://pypi.org/user/AbduBakr)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Abdullah Bakr"
-        self.role = "AI Engineer"
-        self.focus = ["Machine Learning", "Deep Learning", "Computer Vision"]
-        self.tools = ["Python", "TensorFlow", "Keras", "PyTorch"]
-        self.platforms = ["GitHub", "Kaggle", "PyPI"]
+AI/ML Engineer specializing in **computer vision**, **transfer learning**, and **end-to-end ML pipelines**.
+I build things that actually work — 7 shipped projects, 1 published open-source library on PyPI, and ongoing medical AI research targeting peer-reviewed publication.
 
-    def mission(self):
-        return "Building intelligent systems that solve real-world problems."
-
-me = AIEngineer()
-print(me.mission())
-```
-
-- 🧠 AI Engineer focused on real-world machine learning systems
-- 🐍 Strong Python & Deep Learning foundation
-- 📦 Published projects on PyPI
-- 🔬 Active in Kaggle competitions & experiments
+Currently studying Information Systems at Science Valley Academy, Cairo.
+Actively seeking internships and AI/ML roles.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Featured Projects
+
+| Project | Highlights | Stack |
+|---|---|---|
+| 🔬 **[Breast Cancer Classification](https://github.com/abdubakr77/cancer-classification-TensorFlow)** | ResNet50 · **98.5% val acc** · ultrasound images | TF, Keras |
+| 🐱 **[Cats vs Dogs Classifier](https://github.com/abdubakr77/Cats-vs-Dogs-Image-Classification-98-Acc)** | Transfer learning · **~98% test acc** · data augmentation | TF, Keras |
+| 🗑️ **[Garbage Classification](https://github.com/abdubakr77/garbage-classification-inception-v3)** | InceptionV3 · 6 classes · 25K images · **~93% acc** | PyTorch |
+| 🏔️ **[Intel Scene Classification](https://github.com/abdubakr77/intel-image-classification-cnn)** | InceptionV3 · 6 scenes · 24K images · **~92.5% val acc** | TF, Keras |
+| 🫁 **[Breast Cancer VGG19](https://github.com/abdubakr77/cancer-classification)** | VGG19-BN · 3-class · **92% test acc** | PyTorch |
+| 📦 **[DeepCSV](https://github.com/abdubakr77/deepcsv)** — *PyPI* | Auto data cleaning · folder walk · Parquet export | Python, Pandas |
+| 🌡️ **[Weather Prediction](https://github.com/abdubakr77/Weather-Temperature-Prediction)** | Regression pipeline · Linear, Ridge, Random Forest | Scikit-learn |
+
+> 🔬 **In progress:** NIH Chest X-ray multi-label classification (112K+ images) — benchmarking Swin Transformer vs DenseNet-121, ResNet-50, EfficientNet-B4 with Grad-CAM explainability. Targeting peer-reviewed publication.
+
+---
+
+## Tech Stack
+
+**Deep Learning**
+`TensorFlow` `Keras` `PyTorch`
+`ResNet50` `VGG19` `InceptionV3` `EfficientNet` `Swin Transformer`
+
+**ML & Data**
+`Scikit-learn` `Pandas` `NumPy` `SciPy` `OpenCV`
+
+**Visualization**
+`Matplotlib` `Seaborn`
+
+**Tools**
+`Git` `GitHub` `Jupyter` `VS Code` `Kaggle` `PyPI`
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-### **💻 Programming Languages**
+![GitHub Streak](https://streak-stats.demolab.com?user=abdubakr77&theme=github-dark-blue&hide_border=true)
 
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=plastic" alt="Python" />
-</a>
+<br/>
 
-### **🤖 AI & Data Science**
-
-<p>
-  <a href="https://numpy.org/">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  </a>
-  <a href="https://pandas.pydata.org/">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  </a>
-  <a href="https://scikit-learn.org/">
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  </a>
-  <a href="https://matplotlib.org/">
-    <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  </a>
-  <a href="https://www.tensorflow.org/">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  </a>
-
-  <a href="https://keras.io/">
-    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  </a>
-
-  <a href="https://pytorch.org/">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  </a>
-</p>
-
-### **🔧 Tools & Environment**
-
-<p>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://jupyter.org/">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  </a>
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=abdubakr77&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+&nbsp;
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdubakr77&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Certifications
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=abdubakr77&theme=radical&hide_border=true&background=0D1117&stroke=F72A5D&ring=F72A5D&fire=F72A5D&currStreakLabel=F72A5D&sideNums=F72A5D&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=abdubakr77&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72A5D&icon_color=F72A5D&text_color=FFFFFF&include_all_commits=true&count_private=true">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdubakr77&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72A5D&icon_color=F72A5D&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdubakr77&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72A5D&text_color=FFFFFF&langs_count=8">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdubakr77&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72A5D&text_color=FFFFFF&langs_count=8" alt="Top Languages">
-</picture>
-
-</div>
-
----
-
-## 🎯 Goals for 2025-2026
-
-<div align="center">
-
-| Goal | Status |
-|------|--------|
-| ✅ Build **AI projects** with real-world applications | Done ✅ |
-| ✅ Master **Deep Learning** architectures (CNNs, RNNs, Transformers) | Done ✅ |
-| ✅ Become extremely comfortable with **ML Mathematics** | Done ✅ |
-| ✅ Create a strong **GitHub portfolio** with quality projects | Done ✅ |
-| ✅ Contribute to **Open Source** AI projects | Done ✅ |
-
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/abdubakr77/deepcsv">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=abdubakr77&repo=deepcsv&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72A5D&text_color=FFFFFF&icon_color=F72A5D" alt="deepcsv" />
-</a>
-
-<br><br>
-
-### **Deep CSV**
-Automatically walks folders and converts list strings to lists in CSV/XLSX files
-
-**🛠️ Technologies:** Python | Data PreProcessing | Data Fixing | Pandas
-
-[**🔗 View Project**](https://github.com/abdubakr77/deepcsv)
-
-<br>
-
-💡 *More exciting projects coming soon! Stay tuned...* 💡
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdubakr77&theme=github-compact&hide_border=true&bg_color=0D1117&color=F72A5D&line=F72A5D&point=FFFFFF" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
+- AI for Everyone — ITI / Mahara-Tech, AI Academy
+- Introduction to Modern AI — Cisco Networking Academy
+- Python Programming Basics — ITI / Mahara-Tech
+- Boost Your Productivity with AI — Google / Maharat من Google
 
 ---
 
 <div align="center">
 
-### 🌟 *"The future belongs to those who keep learning — every day."* 🌟
-
-**Thanks for visiting! Feel free to reach out and let's collaborate!** 💬
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=abdubakr77&label=Profile%20Views&color=F72A5D&style=for-the-badge" alt="Profile Views" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+`Cairo, Egypt` · `abdubakora1232@gmail.com`
 
 </div>
