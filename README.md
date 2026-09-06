@@ -156,6 +156,12 @@ current_status = {
 >
 > — **[Dr. Ashraf Ullah](https://www.linkedin.com/in/dr-ashraf-ullah-96b9aaa3/)**, Research Collaborator · July 2026
 
+<br clear="right"/>
+
+> "I highly recommend Abdullah. We recently collaborated on a Kaggle competition where we joined in the final 10 days, and his dedication was key to our success. Abdullah is a brilliant problem solver who excels under pressure. He took the lead on building robust ML pipelines and fine-tuning hyperparameter spaces using Optuna, showing deep technical knowledge and agile thinking. He is a reliable teammate, an excellent communicator, and a true asset to any data science or AI team."
+>
+> — **[Hozaifa Mohamed](https://www.linkedin.com/in/hozaifa-mohamed-708355259/)**, Competition Collaborator · July 2026
+
 ---
 
 ## 🌐 Languages
