@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+%7C+Deep+Learning+%7C+Medical+AI;Open+Source+Contributor+%7C+13%2C000%2B+PyPI+Downloads;FlyRank+AI+ML+Engineering+Intern" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+%7C+Deep+Learning+%7C+Medical+AI;Open+Source+Contributor+%7C+16%2C000%2B+PyPI+Downloads;FlyRank+AI+ML+Engineering+Intern" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,14 +18,12 @@
 
 <div align="center">
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdubakr) | [![Kaggle](https://img.shields.io/badge/Kaggle-abdullahbakr7-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/abdullahbakr7) | [![PyPI](https://img.shields.io/badge/PyPI-AbduBakr-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/AbduBakr) | [![GitHub](https://img.shields.io/badge/GitHub-abdubakr77-white?style=flat-square&logo=github&logoColor=black)](https://github.com/abdubakr77) |
-|---|---|---|---|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdubakr) | [![Kaggle](https://img.shields.io/badge/Kaggle-abdullahbakr7-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/abdullahbakr7) | [![PyPI](https://img.shields.io/badge/PyPI-AbduBakr-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/AbduBakr) | [![GitHub](https://img.shields.io/badge/GitHub-abdubakr77-white?style=flat-square&logo=github&logoColor=black)](https://github.com/abdubakr77) | [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--1638--4356-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-1638-4356) |
+|---|---|---|---|---|
 
 </div>
 
 <br/>
-
-
 
 ---
 
@@ -33,27 +31,38 @@
 
 <img align="right" alt="AI Engineering" width="380" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- 🎓 Studying **Information Systems (MIS)** at Science Valley Academy, Cairo
-- 💼 **ML Engineering Intern at FlyRank AI**, selected from 20,000+ applicants worldwide
-- 🔬 **AI Research**: NIH Chest X-Ray multi-label classification targeting peer-reviewed publication
-- 📦 **Open Source**: [deepcsv](https://pypi.org/project/deepcsv/) · 13,000+ downloads on PyPI
-- 🏆 **7+ shipped projects** in medical AI, computer vision, and deep learning
-- 💬 Ask me about **Computer Vision, Transfer Learning, PyTorch, TensorFlow**
+- 🎓 Studying **Information Systems** at Science Valley Academy: a program built around software development, databases, and systems design
+- 💼 **ML Engineering Intern @ FlyRank AI**, selected from 20,000+ applicants worldwide, completed all 11 core assignments plus a capstone project, currently in final review
+- 🧑‍💻 **Freelance For AI**: certified through the ITIDA Gigs × eYouth freelance training program
+- 🔬 **AI Research**: NIH Chest X-Ray multi-label classification preprint submitted to Research Square, currently under review
+- 📦 **Open Source**: [deepcsv](https://pypi.org/project/deepcsv/) · 16,000+ downloads on PyPI
+- 📈 Ranked **#8 in Egypt** for AI & ML Engineering creators | Favikon (June 2026)
+- 🏆 **15+ shipped projects** in ML, medical AI, computer vision, and deep learning
+- 🌱 **Next up**: exploring Pose Estimation, OCR, and NLP
 - 📫 Reach me at **abdullah.bakr.official@gmail.com**
-- 🌍 Cairo, Egypt
+- 🌍 Monufiya, Egypt
 
 <br clear="right"/>
+
+---
+
+## 🎓 Education
+
+**Information Systems**: Science Valley Academy *(High Institute for Engineering and Technology, Faculty of Science)*
+
+📅 [Sep 2025 – Jun 2029] &nbsp;|&nbsp; 🎯 Grade: Very Good
 
 ---
 
 ## ⚡ Currently
 
 ```python
-status = {
-    "internship":  "ML Engineering Intern at FlyRank AI  (Jun 2026 - Present)",
-    "research":    "NIH ChestX-Ray14  |  Swin Transformer V2-B  |  0.8505 mean AUC",
-    "open_source": "deepcsv  |  PyPI  |  13,000+ downloads",
-    "seeking":     "AI/ML internships and full-time roles",
+current_status = {
+    "internship":  "ML Engineering Intern @ FlyRank AI (Jun 2026 – Present)",
+    "research":    "NIH ChestX-Ray14 | Swin Transformer V2-B | 0.8495 mean AUC | preprint under review",
+    "open_source": "deepcsv | PyPI | 16,000+ downloads",
+    "learning":    "Pose Estimation | OCR | NLP",
+    "open_to":     "AI/ML internships & full-time roles",
 }
 ```
 
@@ -65,14 +74,35 @@ status = {
 
 | Project | Highlights | Stack |
 |:--------|:-----------|:------|
-| 🔬 **[NIH Chest X-Ray Classification](https://github.com/abdubakr77/chest-xray-multilabel-classification)** | 6 architectures · 112K+ images · **0.8505 mean AUC** · Swin V2-B surpasses CheXNet · Peer-review target | PyTorch, Grad-CAM |
-| 🎭 **[Synthetic Image Attribution · ICANN 2026](https://github.com/abdubakr77/yolo-drone-detector)** | Dual-stream EfficientNet-B4 · RGB + SRM forensic features · **95%+ accuracy** | PyTorch, EfficientNet |
+| 🔬 **[NIH Chest X-Ray Classification](https://github.com/abdubakr77/chest-xray-multilabel-classification)** 🔒 | 5 architectures benchmarked · 112K+ images · **0.8495 mean AUC** · Swin V2-B surpasses CheXNet · Grad-CAM explainability · preprint under review at Research Square · *(private — embargoed pending publication)* | PyTorch, Swin Transformer, Grad-CAM |
+| 🎭 **[Synthetic Image Attribution · ICANN 2026](https://github.com/abdubakr77/synthetic-image-attribution)** | Dual-stream EfficientNet-B4 · RGB + SRM forensic features · **95%+ accuracy** across 10 text-to-image models | PyTorch, EfficientNet |
+| 🩺 **[Skin Lesion Segmentation](https://github.com/abdubakr77/skin-lesion-segmentation)** | YOLO-based segmentation · melanoma vs. non-melanoma · trained on University of Waterloo VIP Lab dermatological datasets | PyTorch, YOLO |
+| 🦷 **[Dental X-Ray AI](https://github.com/abdubakr77/dental-xray-ai)** | Three-stage pipeline · quadrant detection → tooth enumeration → pathology classification (caries, periapical lesions, impacted teeth) | YOLO, Object Detection |
 | 🚁 **[Drone Detection in the Wild](https://github.com/abdubakr77/yolo-drone-detector)** | YOLO26m + ResNet50 two-stage pipeline · **91.8% mAP@50** · 1,000+ real-world images | Ultralytics, Keras |
-| 🎗️ **[Breast Cancer Classification](https://github.com/abdubakr77/cancer-classification-TensorFlow)** | ResNet50 vs VGG16 vs EfficientNetB4 · **98.5% val acc** · ultrasound images | TF, Keras |
-| 📦 **[deepcsv](https://github.com/abdubakr77/deepcsv)** · *PyPI* | Auto data cleaning · 13,000+ downloads · GradientBoosting auto-FS mode | Python, Pandas |
-| 🐱 **[Cats vs Dogs Classifier](https://github.com/abdubakr77/Cats-vs-Dogs-Image-Classification-98-Acc)** | Transfer learning · **~98% test acc** · ResNet50 + augmentation | TF, Keras |
+| 🎗️ **[Breast Cancer Classification](https://github.com/abdubakr77/cancer-classification-TensorFlow)** | ResNet50 vs VGG16 vs EfficientNetB4 vs InceptionV3 vs MobileNet · **98.5% val acc** · ultrasound images | TensorFlow, Keras |
+| 😴 **[Drowsiness Detection](https://github.com/abdubakr77/drowsiness-detection-eye-state-classification)** | Real-time awake/sleepy classification · transfer learning on ~85K infrared eye images (MRL Eye Dataset) | PyTorch, Transfer Learning |
+| 📦 **[deepcsv](https://github.com/abdubakr77/deepcsv)** · *PyPI* | Auto data cleaning · **16,000+ downloads** · GradientBoosting auto-feature-selection mode | Python, Pandas |
 
 </div>
+
+<details>
+<summary>📂 More Projects</summary>
+<br>
+
+| Project | Highlights |
+|:--------|:-----------|
+| [FaceAge-Classifier](https://github.com/abdubakr77/FaceAge-Classifier) | 5-class age group classification (18–60) · CNN & transfer learning on 69K+ face images |
+| [IBM Stock Forecasting](https://github.com/abdubakr77/IBM-Stock-Forecasting-RNN-LSTM-GRU) | Time series forecasting (1980–2025) comparing Vanilla RNN, LSTM, and GRU |
+| [Stellar Object Classification](https://github.com/abdubakr77/predicting-stellar-class) | Multi-class classification (Galaxy/Star/Quasar) · stacked ensemble of LightGBM, XGBoost, ExtraTrees on SDSS17 data |
+| [Garbage Classification](https://github.com/abdubakr77/garbage-classification-inception-v3) | 6-category classification · Inception V3 vs ResNet50 vs EfficientNet-B3 |
+| [Intel Image Classification](https://github.com/abdubakr77/intel-image-classification-cnn) | Multi-class CNN classification on the Intel Image dataset |
+| [Cats vs Dogs Classifier](https://github.com/abdubakr77/Cats-vs-Dogs-Image-Classification-98-Acc) | Transfer learning · **~98% test acc** · ResNet50 + augmentation |
+| [Weather Temperature Prediction](https://github.com/abdubakr77/Weather-Temperature-Prediction) | Gradient Boosting regression · R² = 0.687 |
+| [Iris Flower Classification](https://github.com/abdubakr77/Iris-Flower-Classification) | Classic ML pipeline comparing multiple classifiers with scikit-learn |
+| Dental Age Estimation *(private)* | Age estimation from panoramic cropped radiographs via transfer learning |
+| [FlyRank ML Internship Workspace](https://github.com/abdubakr77/flyrank-ml-internship) | Notebooks, pipeline work, and capstone project from the FlyRank AI internship |
+
+</details>
 
 ---
 
@@ -88,7 +118,13 @@ status = {
 
 | OpenCV | Scikit-learn | NumPy | Pandas | SciPy |
 |:------:|:------------:|:-----:|:------:|:-----:|
-| <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50" height="50"/></a> | <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/></a> | <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" height="50"/></a> | <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="50" height="50"/></a> | <a href="https://scipy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/></a> |
+| <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50" height="50"/></a> | <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/></a> | <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50" height="50"/></a> | <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="50" height="50"/></a> | <a href="https://scipy.org/" target="_blank"><img src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg" width="50" height="50"/></a> |
+
+**Specialized: Object Detection & Gradient Boosting**
+
+| Ultralytics | XGBoost | LightGBM |
+|:-----------:|:-------:|:--------:|
+| <a href="https://www.ultralytics.com/" target="_blank"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics-logomark-color.png" width="50" height="50"/></a> | <a href="https://xgboost.ai/" target="_blank"><img src="https://xgboost.ai/images/logo/xgboost-logo-trimmed.png" height="35"/></a> | <a href="https://lightgbm.readthedocs.io/" target="_blank"><img src="https://aloa.co/_astro/LightGBM%20(Regression%20Tasks).DjXN3gYZ.png" width="50" height="50"/></a> |
 
 **Visualization**
 
@@ -114,14 +150,31 @@ status = {
 
 ---
 
+## 🗣️ Recommendation
+
+> "I highly recommend Abdullah. He is a hardworking and consistent professional. We collaborated on a research paper together, and it was a pleasure working with him. He completed his part of the work within the given deadline. Abdullah has excellent programming skills in both Machine Learning and Deep Learning. I would recommend him for any AI-related project, particularly those involving Computer Vision or Large Language Models (LLMs)."
+>
+> — **[Dr. Ashraf Ullah](https://www.linkedin.com/in/dr-ashraf-ullah-96b9aaa3/)**, Research Collaborator · July 2026
+
+---
+
+## 🌐 Languages
+
+| Language | Proficiency |
+|:---------|:------------|
+| 🇪🇬 Arabic | Native or bilingual proficiency |
+| 🇬🇧 English | Professional working proficiency |
+
+---
+
 ## 📜 Certifications
 
-- 🏅 **Build with AI: Masr Edition** · Google for Developers (2026)
-- 🧠 **Deep Learning for Computer Vision** · MaharaTech / ITI Mooca (2026)
+- 🧠 **HCIA-AI V4.0** · Huawei ICT Academy (Aug 2026)
+- 🤝 **AI Ambassadors Program** · National Telecommunication Institute (NTI) × Engineers for a Sustainable Egypt (Jul 2026)
+- 💻 **Freelancing Certification** · ITIDA Gigs × eYouth (2026)
+- 🚀 **Build with AI: Masr Edition** · Google for Developers (2026)
+- 👁️ **Deep Learning for Computer Vision** · MaharaTech / ITI (2026)
 - ☁️ **AWS AI Practitioner Challenge** · Udacity (2026)
-- 🤖 **AI For Everyone (AI4E)** · Information Technology Institute, ITI (2026)
-- 🐍 **Python Programming Basics** · Information Technology Institute, ITI (2026)
-- 🌐 **Introduction to Modern AI** · Cisco Networking Academy (2026)
 
 ---
 
