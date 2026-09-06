@@ -107,9 +107,9 @@ status = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdubakr77&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_color=30363d" height="180" />
+  <img src="top-langs.svg" height="180" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdubakr77&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=1f6feb&border_color=30363d" height="180" />
+  <img src="stats.svg" height="180" />
 </div>
 
 ---
