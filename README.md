@@ -32,9 +32,9 @@
 <img align="right" alt="AI Engineering" width="380" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 - 🎓 Studying **Information Systems** at Science Valley Academy: a program built around software development, databases, and systems design
-- 💼 **ML Engineering Intern @ FlyRank AI**, selected from 20,000+ applicants worldwide, completed all 11 core assignments plus a capstone project, currently in final review
+- 💼 **ML Engineering Intern @ FlyRank AI**, selected from 20,000+ applicants worldwide, completed all 11 core assignments plus a capstone project, Capstone Accepted.
 - 🧑‍💻 **Freelance For AI**: certified through the ITIDA Gigs × eYouth freelance training program
-- 🔬 **AI Research**: NIH Chest X-Ray multi-label classification preprint submitted to Research Square, currently under review
+- 🔬 **AI Research**: NIH Chest X-Ray multi-label classification preprint submitted to Research Square, now is live as a preprint on Research Square
 - 📦 **Open Source**: [deepcsv](https://pypi.org/project/deepcsv/) · 16,000+ downloads on PyPI
 - 📈 Ranked **#8 in Egypt** for AI & ML Engineering creators | Favikon (June 2026)
 - 🏆 **15+ shipped projects** in ML, medical AI, computer vision, and deep learning
@@ -58,8 +58,8 @@
 
 ```python
 current_status = {
-    "internship":  "ML Engineering Intern @ FlyRank AI (Jun 2026 – Present)",
-    "research":    "NIH ChestX-Ray14 | Swin Transformer V2-B | 0.8495 mean AUC | preprint under review",
+    "internship":  "ML Engineering Intern @ FlyRank AI (Jun 2026 – Sep 2026)",
+    "research":    "NIH ChestX-Ray14 | Swin Transformer V2-B | 0.8495 mean AUC | is now live as a preprint on Research Square",
     "open_source": "deepcsv | PyPI | 16,000+ downloads",
     "learning":    "Pose Estimation | OCR | NLP",
     "open_to":     "AI/ML internships & full-time roles",
