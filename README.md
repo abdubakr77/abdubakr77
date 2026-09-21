@@ -99,7 +99,6 @@ current_status = {
 | [Cats vs Dogs Classifier](https://github.com/abdubakr77/Cats-vs-Dogs-Image-Classification-98-Acc) | Transfer learning · **~98% test acc** · ResNet50 + augmentation |
 | [Weather Temperature Prediction](https://github.com/abdubakr77/Weather-Temperature-Prediction) | Gradient Boosting regression · R² = 0.687 |
 | [Iris Flower Classification](https://github.com/abdubakr77/Iris-Flower-Classification) | Classic ML pipeline comparing multiple classifiers with scikit-learn |
-| Dental Age Estimation *(private)* | Age estimation from panoramic cropped radiographs via transfer learning |
 | [FlyRank ML Internship Workspace](https://github.com/abdubakr77/flyrank-ml-internship) | Notebooks, pipeline work, and capstone project from the FlyRank AI internship |
 
 </details>
