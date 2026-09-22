@@ -38,7 +38,7 @@
 - 📦 **Open Source**: [deepcsv](https://pypi.org/project/deepcsv/) · 16,000+ downloads on PyPI
 - 📈 Ranked **#8 in Egypt** for AI & ML Engineering creators | Favikon (June 2026)
 - 🏆 **15+ shipped projects** in ML, medical AI, computer vision, and deep learning
-- 🌱 **Next up**: exploring Pose Estimation, OCR, and NLP
+- 🌱 **Next up**: exploring OCR and NLP
 - 📫 Reach me at **abdullah.bakr.official@gmail.com**
 - 🌍 Monufiya, Egypt
 
@@ -61,7 +61,7 @@ current_status = {
     "internship":  "ML Engineering Intern @ FlyRank AI (Jun 2026 – Sep 2026)",
     "research":    "NIH ChestX-Ray14 | Swin Transformer V2-B | 0.8495 mean AUC | is now live as a preprint on Research Square",
     "open_source": "deepcsv | PyPI | 16,000+ downloads",
-    "learning":    "Pose Estimation | OCR | NLP",
+    "learning":    "OCR | NLP",
     "open_to":     "AI/ML internships & full-time roles",
 }
 ```
