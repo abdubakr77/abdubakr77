@@ -61,7 +61,7 @@ current_status = {
     "internship":  "ML Engineering Intern @ FlyRank AI (Jun 2026 – Sep 2026)",
     "research":    "NIH ChestX-Ray14 | Swin Transformer V2-B | 0.8495 mean AUC | is now live as a preprint on Research Square",
     "open_source": "deepcsv | PyPI | 16,000+ downloads",
-    "learning":    "OCR | NLP",
+    "learning":    "OCR | NLP | etc",
     "open_to":     "AI/ML internships & full-time roles",
 }
 ```
