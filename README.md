@@ -172,7 +172,7 @@ current_status = {
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications 
 
 - 🧠 **HCIA-AI V4.0** · Huawei ICT Academy (Aug 2026)
 - 🤝 **AI Ambassadors Program** · National Telecommunication Institute (NTI) × Engineers for a Sustainable Egypt (Jul 2026)
