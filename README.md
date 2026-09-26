@@ -16,7 +16,7 @@
 
 <br/>
 
-<div align="center">
+<div align="center"> 
 
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdubakr) | [![Kaggle](https://img.shields.io/badge/Kaggle-abdullahbakr7-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/abdullahbakr7) | [![PyPI](https://img.shields.io/badge/PyPI-AbduBakr-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/user/AbduBakr) | [![GitHub](https://img.shields.io/badge/GitHub-abdubakr77-white?style=flat-square&logo=github&logoColor=black)](https://github.com/abdubakr77) | [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--1638--4356-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-1638-4356) |
 |---|---|---|---|---|
