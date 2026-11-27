@@ -35,7 +35,7 @@
 - 💼 **ML Engineering Intern @ FlyRank AI**, selected from 20,000+ applicants worldwide, completed all 11 core assignments plus a capstone project, Capstone Accepted.
 - 🧑‍💻 **Freelance For AI**: certified through the ITIDA Gigs × eYouth freelance training program
 - 🔬 **AI Research**: NIH Chest X-Ray multi-label classification preprint submitted to Research Square, now is live as a preprint on Research Square
-- 📦 **Open Source**: [deepcsv](https://pypi.org/project/deepcsv/) · 16,000+ downloads on PyPI
+- 📦 **Open Source**: [deepcsv](https://pypi.org/project/deepcsv/) · 17,000+ downloads on PyPI
 - 📈 Ranked **#8 in Egypt** for AI & ML Engineering creators | Favikon (June 2026)
 - 🏆 **15+ shipped projects** in ML, medical AI, computer vision, and deep learning
 - 🌱 **Next up**: exploring OCR and NLP
